@@ -1,6 +1,6 @@
 Órbita 2: sistema visual de Raidfinder
 Enlaces:
-Archivo de Figma	Mockups: https://www.figma.com/design/pfbZpsNycfUNI6r9t4LYah/Mockups?node-id=0-1&p=f&t=ripkeY2zCRBiFWJg-0
+Archivo de Figma	Mockups: https://www.figma.com/design/pfbZpsNycfUNI6r9t4LYah/Mockups?node-id=0-1&t=FmxAgWvrM063zn28-1
 Prototipo Escritorio: https://www.figma.com/proto/pfbZpsNycfUNI6r9t4LYah/Mockups?node-id=22-10&p=f&t=ripkeY2zCRBiFWJg-0&scaling=min-zoom&content-scaling=fixed&page-id=3%3A8
 Prototipo Móvil: https://www.figma.com/design/pfbZpsNycfUNI6r9t4LYah/Mockups?node-id=3-9&p=f&t=ripkeY2zCRBiFWJg-0
 Proyecto de Google Stitch:	No se usó.
